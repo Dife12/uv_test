@@ -1,0 +1,15 @@
+[project]
+name = "uv-test"
+version = "0.1.0"
+description = "UV indoor-outdoor sensing pipeline and device firmware."
+requires-python = ">=3.11"
+dependencies = [
+  "numpy>=2.0",
+]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["uv_test"]

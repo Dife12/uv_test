@@ -1,0 +1,6 @@
+.DS_Store
+**/__pycache__/
+*.pyc
+.pio/
+.platformio-core/
+Dong et al. - 2025 - RayWatch Hemispherical Diffusion on Wrist UV Sensor for Indoor-Outdoor Sensing.pdf
